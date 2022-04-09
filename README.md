@@ -36,7 +36,7 @@ git@github.com:LYANGEND/TO-DO-LIST.git in your terminal.
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## Acknowledgment
 
 - Hat tip to anyone whose code was used
 - Inspiration
